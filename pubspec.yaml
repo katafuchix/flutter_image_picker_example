@@ -38,6 +38,7 @@ dependencies:
   image_picker: ^1.0.7
   image: ^4.1.7
   extended_image: ^8.2.0
+  video_thumbnail: ^0.5.3
 
 dev_dependencies:
   flutter_test:
