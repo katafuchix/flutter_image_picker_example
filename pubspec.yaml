@@ -39,6 +39,7 @@ dependencies:
   image: ^4.1.7
   extended_image: ^8.2.0
   video_thumbnail: ^0.5.3
+  video_player: ^2.7.0
 
 dev_dependencies:
   flutter_test:
